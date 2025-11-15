@@ -1,0 +1,50 @@
+[
+  {
+    "title": "The Future of JavaScript",
+    "speakers": ["John Doe"],
+    "category": ["JavaScript", "Web Development"],
+    "duration": 60,
+    "description": "A deep dive into the upcoming features of JavaScript and how they will shape the future of web development.",
+    "startTime": "10:00"
+  },
+  {
+    "title": "Building Scalable APIs with Node.js",
+    "speakers": ["Jane Smith"],
+    "category": ["Node.js", "APIs"],
+    "duration": 60,
+    "description": "Learn how to design and build APIs that can handle millions of requests per day.",
+    "startTime": "11:10"
+  },
+  {
+    "title": "CSS Grid and Flexbox: A Deep Dive",
+    "speakers": ["Peter Jones", "Mary Johnson"],
+    "category": ["CSS", "Web Design"],
+    "duration": 60,
+    "description": "Master the art of layout with CSS Grid and Flexbox. We will cover advanced techniques and real-world examples.",
+    "startTime": "12:20"
+  },
+  {
+    "title": "Introduction to Machine Learning with TensorFlow.js",
+    "speakers": ["David Lee"],
+    "category": ["Machine Learning", "JavaScript"],
+    "duration": 60,
+    "description": "An introduction to machine learning in the browser using TensorFlow.js. No previous ML experience required.",
+    "startTime": "14:30"
+  },
+  {
+    "title": "State Management in React with Redux",
+    "speakers": ["Sarah Williams"],
+    "category": ["React", "State Management"],
+    "duration": 60,
+    "description": "Learn how to manage complex application state in React using Redux. We will cover the core concepts and best practices.",
+    "startTime": "15:40"
+  },
+  {
+    "title": "The Power of Serverless",
+    "speakers": ["Chris Green"],
+    "category": ["Serverless", "Cloud Computing"],
+    "duration": 60,
+    "description": "Discover the benefits of serverless architecture and how it can help you build and deploy applications faster.",
+    "startTime": "16:50"
+  }
+]
